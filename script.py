@@ -1,3 +1,3 @@
 print("Hello DSTI")
-a =10
+a = 100000
 print(a)
